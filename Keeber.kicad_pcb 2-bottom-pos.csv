@@ -1,0 +1,18 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,22p,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,117.123,-91.5241,270,bottom
+C2,22p,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,126.123,-91.4866,270,bottom
+C3,0.1u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,133.5,-107,0,bottom
+C4,0.1u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,129.7631,-100.0611,0,bottom
+C5,0.1u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,107,-93.5,270,bottom
+C6,0.1u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,109,-93.5,270,bottom
+C7,4.7u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,110.75,-106.25,270,bottom
+C8,1u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,110.7125,-99.25,180,bottom
+G***,LOGO,shoots,167.2066,-62.812,180,bottom
+J1,EDA_4_PIN,EDA4PIN,53.313,-76.1597,180,bottom
+R1,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,103.75,-92.25,270,bottom
+R2,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,133.5,-105,180,bottom
+R3,22,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,110.75,-103.25,180,bottom
+R4,22,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,110.75,-101.25,180,bottom
+S1,TS-1187A-B-A-B,SW_TS-1187A-B-A-B,90.4986,-98.2577,0,bottom
+U1,ATMEGA32U4,QFN44G-0.5-7X7MM,122.1216,-101.3565,0,bottom
+X1,XTAL_GND,Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm_HandSoldering,121.873,-91.2366,0,bottom

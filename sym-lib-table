@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name 2020-12-22_19-32-09)(type Legacy)(uri C:/Users/Kagen/Downloads/ul_1054500101/KiCAD/2020-12-22_19-32-09/2020-12-22_19-32-09.lib)(options "")(descr ""))
+  (lib (name USB4110-GF-A)(type Legacy)(uri C:/Users/Kagen/iCloudDrive/Documents/Keeber/Libs/USB4110-GF-A/USB4110-GF-A.lib)(options "")(descr ""))
+  (lib (name SM05B-SRSS-TB_LF__SN_)(type Legacy)(uri C:/Users/Kagen/iCloudDrive/Documents/Keeber/Libs/SM05B-SRSS-TB_LF__SN_/SM05B-SRSS-TB_LF__SN_.lib)(options "")(descr ""))
+  (lib (name TS-1187A-B-A-B)(type Legacy)(uri C:/Users/Kagen/iCloudDrive/Documents/Keeber/Libs/TS-1187A-B-A-B/TS-1187A-B-A-B.lib)(options "")(descr ""))
+  (lib (name Adafruit_Feather_32u4_Bluefruit_LE-eagle-import)(type Legacy)(uri "C:/Users/Kagen/Downloads/Adafruit-Feather-32u4-Bluefruit-LE-PCB-master/Adafruit-Feather-32u4-Bluefruit-LE-PCB-master/Adafruit Feather 32u4 Bluefruit LE/Adafruit_Feather_32u4_Bluefruit_LE-eagle-import.lib")(options "")(descr ""))
+)

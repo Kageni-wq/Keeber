@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name usb)(type KiCad)(uri C:/Users/Kagen/OneDrive/Documents/Keeber)(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri C:/Users/Kagen/Downloads/ul_1054500101/KiCAD/2020-12-22_19-32-09/footprints.pretty)(options "")(descr ""))
+  (lib (name Downloads)(type KiCad)(uri C:/Users/Kagen/Downloads)(options "")(descr ""))
+  (lib (name Libs)(type KiCad)(uri C:/Users/Kagen/iCloudDrive/Documents/Keeber/Libs)(options "")(descr ""))
+  (lib (name MCU-ATMEGA32U4-MUR_VQFN44_)(type KiCad)(uri C:/Users/Kagen/iCloudDrive/Documents/Keeber/Libs/MCU-ATMEGA32U4-MUR_VQFN44_)(options "")(descr ""))
+  (lib (name TS-1187A-B-A-B)(type KiCad)(uri C:/Users/Kagen/iCloudDrive/Documents/Keeber/Libs/TS-1187A-B-A-B)(options "")(descr ""))
+  (lib (name "Adafruit Feather 32u4 Bluefruit LE")(type KiCad)(uri "C:/Users/Kagen/Downloads/Adafruit-Feather-32u4-Bluefruit-LE-PCB-master/Adafruit-Feather-32u4-Bluefruit-LE-PCB-master/Adafruit Feather 32u4 Bluefruit LE/Adafruit Feather 32u4 Bluefruit LE.pretty")(options "")(descr ""))
+)

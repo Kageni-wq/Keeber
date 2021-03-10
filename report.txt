@@ -1,0 +1,10 @@
+Plot file "C:\Users\Kagen\OneDrive\Documents\Keeber\Keeber-F_Cu.gbr" created.
+Plot file "C:\Users\Kagen\OneDrive\Documents\Keeber\Keeber-B_Cu.gbr" created.
+Plot file "C:\Users\Kagen\OneDrive\Documents\Keeber\Keeber-F_Paste.gbr" created.
+Plot file "C:\Users\Kagen\OneDrive\Documents\Keeber\Keeber-B_Paste.gbr" created.
+Plot file "C:\Users\Kagen\OneDrive\Documents\Keeber\Keeber-F_SilkS.gbr" created.
+Plot file "C:\Users\Kagen\OneDrive\Documents\Keeber\Keeber-B_SilkS.gbr" created.
+Plot file "C:\Users\Kagen\OneDrive\Documents\Keeber\Keeber-F_Mask.gbr" created.
+Plot file "C:\Users\Kagen\OneDrive\Documents\Keeber\Keeber-B_Mask.gbr" created.
+Plot file "C:\Users\Kagen\OneDrive\Documents\Keeber\Keeber-Edge_Cuts.gbr" created.
+Create Gerber job file "C:\Users\Kagen\OneDrive\Documents\Keeber\Keeber-job.gbrjob"
